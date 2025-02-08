@@ -85,3 +85,6 @@ The dataset used for this project includes customer segmentation data, which hel
 ## Conclusion
 This project successfully demonstrates the power of **interactive dashboards** in deriving business insights. By visualizing customer segmentation data, businesses can make informed decisions, improve customer experiences, and optimize marketing strategies. The dashboard serves as a **valuable decision-making tool** for stakeholders, empowering them with data-driven insights.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/992efd11-385d-4ca4-9390-cc2ab0145ccf)
